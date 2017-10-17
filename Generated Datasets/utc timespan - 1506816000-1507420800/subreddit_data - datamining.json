@@ -1,9 +1,9 @@
 {
-    "active_user_count": 8, 
+    "active_user_count": 7, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 1, 
-    "avg_submission_score": 4, 
+    "avg_submission_score": 3, 
     "collection_range_end_unix_timestamp": 1507420800, 
     "collection_range_end_utc": "2017-10-08 00:00:00", 
     "collection_range_start_unix_timestamp": 1506816000, 
@@ -32,7 +32,7 @@
             "num_comments": 0, 
             "num_crossposts": 0, 
             "permalink": "/r/datamining/comments/74hno0/does_anyone_have_any_experience_with_the_census/", 
-            "score": 6, 
+            "score": 4, 
             "selftext": "I'm trying to use some of the data from it for a school project, but have some questions about how some of the data is stored.", 
             "subreddit": "datamining", 
             "title": "Does anyone have any experience with the Census API?", 
@@ -60,7 +60,7 @@
         }
     ], 
     "subreddit_creation_utc": 1247391141.0, 
-    "subscribers": 6978, 
+    "subscribers": 6985, 
     "title": "Data mining: the process finding useful information from large data sets", 
     "title_word_count_occurrences": {}, 
     "top_score_submissions": [
@@ -78,7 +78,7 @@
             "num_comments": 0, 
             "num_crossposts": 0, 
             "permalink": "/r/datamining/comments/74hno0/does_anyone_have_any_experience_with_the_census/", 
-            "score": 6, 
+            "score": 4, 
             "selftext": "I'm trying to use some of the data from it for a school project, but have some questions about how some of the data is stored.", 
             "subreddit": "datamining", 
             "title": "Does anyone have any experience with the Census API?", 
@@ -106,5 +106,6 @@
         }
     ], 
     "total_submissions": 2, 
-    "utc_of_data_collection_start": "2017-10-16 18:37:32"
+    "utc_of_data_collection_completion": "2017-10-17 18:47:47", 
+    "utc_of_data_collection_start": "2017-10-17 18:47:47"
 }

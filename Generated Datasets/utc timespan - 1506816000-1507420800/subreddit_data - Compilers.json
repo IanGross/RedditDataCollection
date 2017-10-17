@@ -33,7 +33,7 @@
             "num_comments": 8, 
             "num_crossposts": 0, 
             "permalink": "/r/Compilers/comments/74i5i1/translation_out_of_ssa/", 
-            "score": 6, 
+            "score": 7, 
             "selftext": "Hey guys. I\u2019m writing a toy compiler that is currently in the IR optimization phase. I can generate three-address code from my AST, translate it to SSA form three-address code, and perform some simple optimizations on the IR.\n\nNow I need to translate out of SSA form back to regular three-address code and I need help. The resources I\u2019ve found online regarding translation out of SSA form are so confusing that I really don\u2019t know where to go. I was hoping someone here might have some clear resources regarding this step to help me finish this stage of my compiler.\n\nThanks for the help!", 
             "subreddit": "Compilers", 
             "title": "Translation out of SSA", 
@@ -61,7 +61,7 @@
         }
     ], 
     "subreddit_creation_utc": 1232074691.0, 
-    "subscribers": 4654, 
+    "subscribers": 4659, 
     "title": "Compilers", 
     "title_word_count_occurrences": {}, 
     "top_score_submissions": [
@@ -99,7 +99,7 @@
             "num_comments": 8, 
             "num_crossposts": 0, 
             "permalink": "/r/Compilers/comments/74i5i1/translation_out_of_ssa/", 
-            "score": 6, 
+            "score": 7, 
             "selftext": "Hey guys. I\u2019m writing a toy compiler that is currently in the IR optimization phase. I can generate three-address code from my AST, translate it to SSA form three-address code, and perform some simple optimizations on the IR.\n\nNow I need to translate out of SSA form back to regular three-address code and I need help. The resources I\u2019ve found online regarding translation out of SSA form are so confusing that I really don\u2019t know where to go. I was hoping someone here might have some clear resources regarding this step to help me finish this stage of my compiler.\n\nThanks for the help!", 
             "subreddit": "Compilers", 
             "title": "Translation out of SSA", 
@@ -107,5 +107,6 @@
         }
     ], 
     "total_submissions": 2, 
-    "utc_of_data_collection_start": "2017-10-16 18:36:55"
+    "utc_of_data_collection_completion": "2017-10-17 18:47:09", 
+    "utc_of_data_collection_start": "2017-10-17 18:47:09"
 }

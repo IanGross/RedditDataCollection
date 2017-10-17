@@ -1,5 +1,5 @@
 {
-    "active_user_count": 31, 
+    "active_user_count": 35, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 6, 
@@ -35,7 +35,7 @@
             "num_comments": 7, 
             "num_crossposts": 0, 
             "permalink": "/r/git/comments/74hnwp/net_project_tracked_with_git_best_practices_for/", 
-            "score": 8, 
+            "score": 9, 
             "selftext": "Hi all -\n\nRelatively new git user here, so just trying to figure out the best way to update my project from 4.0 to 4.5.2 framework. Maybe this shouldn't even be done within git? Just create a completely new/separate project that uses the 4.5.2 framework as the target and start a brand new repository?\n\nThoughts? Best practices?", 
             "subreddit": "git", 
             "title": ".NET project tracked with git - Best practices for updating Target Framework from 4.0 to 4.5.2", 
@@ -135,7 +135,7 @@
             "num_comments": 0, 
             "num_crossposts": 0, 
             "permalink": "/r/git/comments/74858g/mixugr_a_tool_for_managing_multiple_git/", 
-            "score": 10, 
+            "score": 12, 
             "selftext": "", 
             "subreddit": "git", 
             "title": "mixu/gr: A tool for managing multiple git repositories", 
@@ -155,7 +155,7 @@
             "num_comments": 2, 
             "num_crossposts": 0, 
             "permalink": "/r/git/comments/742ymg/tool_or_command_to_browse_deleted_files/", 
-            "score": 5, 
+            "score": 6, 
             "selftext": "Anyone know of a tool or tricks to make browsing through the files in a repo easier while moving through history. My best solution right now is to browse through the commit history until I find the commit I deleted the file and then checkout the previous commit. This can take a while in a big project and it seems like there must be a better way.\n\nThanks.", 
             "subreddit": "git", 
             "title": "Tool or Command to Browse Deleted Files", 
@@ -275,7 +275,7 @@
             "num_comments": 7, 
             "num_crossposts": 0, 
             "permalink": "/r/git/comments/73pvdv/how_to_pull_a_directory_with_spaces_in_it/", 
-            "score": 5, 
+            "score": 4, 
             "selftext": "When I try to pull, it says invalid path.  Do I just have to change the path name so that it doesn't have spaces in it?", 
             "subreddit": "git", 
             "title": "How to pull a directory with spaces in it?", 
@@ -315,7 +315,7 @@
             "num_comments": 19, 
             "num_crossposts": 0, 
             "permalink": "/r/git/comments/73l0f3/git_on_root_directory/", 
-            "score": 6, 
+            "score": 5, 
             "selftext": "I have some an git repo in my /etc directory, and using my git and making changes I always need to use sudo git.\n\nWondering if there are other ways to handle this? Should I try to use soft links etc?\n\nWhats the best or good ways to handle this situation?", 
             "subreddit": "git", 
             "title": "git on root directory?", 
@@ -323,7 +323,7 @@
         }
     ], 
     "subreddit_creation_utc": 1209083870.0, 
-    "subscribers": 14727, 
+    "subscribers": 14730, 
     "title": "git", 
     "title_word_count_occurrences": {
         ".net": 1, 
@@ -372,6 +372,26 @@
             "url": "https://www.reddit.com/r/git/comments/73vuys/psa_having_issues_with_github_related_sites_in/"
         }, 
         {
+            "author": "siimon04", 
+            "created_utc": 1507123881.0, 
+            "domain": "github.com", 
+            "id": "74858g", 
+            "is_reddit_media_domain": false, 
+            "is_self": false, 
+            "is_video": false, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "media": null, 
+            "num_comments": 0, 
+            "num_crossposts": 0, 
+            "permalink": "/r/git/comments/74858g/mixugr_a_tool_for_managing_multiple_git/", 
+            "score": 12, 
+            "selftext": "", 
+            "subreddit": "git", 
+            "title": "mixu/gr: A tool for managing multiple git repositories", 
+            "url": "https://github.com/mixu/gr"
+        }, 
+        {
             "author": "anime_daisuki", 
             "created_utc": 1507042083.0, 
             "domain": "self.git", 
@@ -392,26 +412,6 @@
             "url": "https://www.reddit.com/r/git/comments/740v8h/is_there_a_shell_script_to_automatically_generate/"
         }, 
         {
-            "author": "siimon04", 
-            "created_utc": 1507123881.0, 
-            "domain": "github.com", 
-            "id": "74858g", 
-            "is_reddit_media_domain": false, 
-            "is_self": false, 
-            "is_video": false, 
-            "link_flair_css_class": null, 
-            "link_flair_text": null, 
-            "media": null, 
-            "num_comments": 0, 
-            "num_crossposts": 0, 
-            "permalink": "/r/git/comments/74858g/mixugr_a_tool_for_managing_multiple_git/", 
-            "score": 10, 
-            "selftext": "", 
-            "subreddit": "git", 
-            "title": "mixu/gr: A tool for managing multiple git repositories", 
-            "url": "https://github.com/mixu/gr"
-        }, 
-        {
             "author": "brendo234", 
             "created_utc": 1507225876.0, 
             "domain": "self.git", 
@@ -425,7 +425,7 @@
             "num_comments": 7, 
             "num_crossposts": 0, 
             "permalink": "/r/git/comments/74hnwp/net_project_tracked_with_git_best_practices_for/", 
-            "score": 8, 
+            "score": 9, 
             "selftext": "Hi all -\n\nRelatively new git user here, so just trying to figure out the best way to update my project from 4.0 to 4.5.2 framework. Maybe this shouldn't even be done within git? Just create a completely new/separate project that uses the 4.5.2 framework as the target and start a brand new repository?\n\nThoughts? Best practices?", 
             "subreddit": "git", 
             "title": ".NET project tracked with git - Best practices for updating Target Framework from 4.0 to 4.5.2", 
@@ -433,5 +433,6 @@
         }
     ], 
     "total_submissions": 15, 
-    "utc_of_data_collection_start": "2017-10-16 18:37:41"
+    "utc_of_data_collection_completion": "2017-10-17 18:47:59", 
+    "utc_of_data_collection_start": "2017-10-17 18:47:58"
 }

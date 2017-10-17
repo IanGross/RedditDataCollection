@@ -1,5 +1,5 @@
 {
-    "active_user_count": 3, 
+    "active_user_count": 4, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 1, 
@@ -40,7 +40,7 @@
         }
     ], 
     "subreddit_creation_utc": 1251561380.0, 
-    "subscribers": 2723, 
+    "subscribers": 2724, 
     "title": "nosql: alternative database systems", 
     "title_word_count_occurrences": {
         "c#": 1, 
@@ -69,5 +69,6 @@
         }
     ], 
     "total_submissions": 1, 
-    "utc_of_data_collection_start": "2017-10-16 18:38:20"
+    "utc_of_data_collection_completion": "2017-10-17 18:48:46", 
+    "utc_of_data_collection_start": "2017-10-17 18:48:46"
 }

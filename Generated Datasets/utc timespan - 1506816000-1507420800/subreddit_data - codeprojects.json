@@ -1,5 +1,5 @@
 {
-    "active_user_count": 4, 
+    "active_user_count": 5, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 1, 
@@ -61,7 +61,7 @@
         }
     ], 
     "subreddit_creation_utc": 1220653096.0, 
-    "subscribers": 2318, 
+    "subscribers": 2319, 
     "title": "Code Projects - Software Projects", 
     "title_word_count_occurrences": {}, 
     "top_score_submissions": [
@@ -107,5 +107,6 @@
         }
     ], 
     "total_submissions": 2, 
-    "utc_of_data_collection_start": "2017-10-16 18:37:14"
+    "utc_of_data_collection_completion": "2017-10-17 18:47:30", 
+    "utc_of_data_collection_start": "2017-10-17 18:47:30"
 }

@@ -1,9 +1,9 @@
 {
-    "active_user_count": 3, 
+    "active_user_count": 9, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 0, 
-    "avg_submission_score": 4, 
+    "avg_submission_score": 5, 
     "collection_range_end_unix_timestamp": 1507420800, 
     "collection_range_end_utc": "2017-10-08 00:00:00", 
     "collection_range_start_unix_timestamp": 1506816000, 
@@ -32,7 +32,7 @@
             "num_comments": 0, 
             "num_crossposts": 0, 
             "permalink": "/r/pystats/comments/73skud/kmeans_clustering_in_python_from_scratch/", 
-            "score": 4, 
+            "score": 5, 
             "selftext": "", 
             "subreddit": "pystats", 
             "title": "K-Means Clustering in Python from Scratch", 
@@ -40,7 +40,7 @@
         }
     ], 
     "subreddit_creation_utc": 1382715738.0, 
-    "subscribers": 6162, 
+    "subscribers": 6163, 
     "title": "Python Statistics", 
     "title_word_count_occurrences": {
         "python": 1
@@ -60,7 +60,7 @@
             "num_comments": 0, 
             "num_crossposts": 0, 
             "permalink": "/r/pystats/comments/73skud/kmeans_clustering_in_python_from_scratch/", 
-            "score": 4, 
+            "score": 5, 
             "selftext": "", 
             "subreddit": "pystats", 
             "title": "K-Means Clustering in Python from Scratch", 
@@ -68,5 +68,6 @@
         }
     ], 
     "total_submissions": 1, 
-    "utc_of_data_collection_start": "2017-10-16 18:38:26"
+    "utc_of_data_collection_completion": "2017-10-17 18:48:53", 
+    "utc_of_data_collection_start": "2017-10-17 18:48:53"
 }

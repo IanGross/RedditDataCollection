@@ -1,9 +1,9 @@
 {
-    "active_user_count": 2, 
+    "active_user_count": 6, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 0, 
-    "avg_submission_score": 1, 
+    "avg_submission_score": 2, 
     "collection_range_end_unix_timestamp": 1506816000, 
     "collection_range_end_utc": "2017-10-01 00:00:00", 
     "collection_range_start_unix_timestamp": 1504224000, 
@@ -92,7 +92,7 @@
             "num_comments": 0, 
             "num_crossposts": 0, 
             "permalink": "/r/CompressiveSensing/comments/72c15w/secondorder_optimization_for_nonconvex_machine/", 
-            "score": 5, 
+            "score": 7, 
             "selftext": "", 
             "subreddit": "CompressiveSensing", 
             "title": "Second-Order Optimization for Non-Convex Machine Learning, FLAG, GIANT and Non-Convex Optimization Under Inexact Hessian", 
@@ -380,7 +380,7 @@
         }
     ], 
     "subreddit_creation_utc": 1349297276.0, 
-    "subscribers": 1918, 
+    "subscribers": 1920, 
     "title": "Compressive Sensing, Advanced Matrix Factorization and more", 
     "title_word_count_occurrences": {
         "deep learning": 3, 
@@ -401,7 +401,7 @@
             "num_comments": 0, 
             "num_crossposts": 0, 
             "permalink": "/r/CompressiveSensing/comments/72c15w/secondorder_optimization_for_nonconvex_machine/", 
-            "score": 5, 
+            "score": 7, 
             "selftext": "", 
             "subreddit": "CompressiveSensing", 
             "title": "Second-Order Optimization for Non-Convex Machine Learning, FLAG, GIANT and Non-Convex Optimization Under Inexact Hessian", 
@@ -489,6 +489,6 @@
         }
     ], 
     "total_submissions": 18, 
-    "utc_of_data_collection_completion": "2017-10-16 18:49:14", 
-    "utc_of_data_collection_start": "2017-10-16 18:49:14"
+    "utc_of_data_collection_completion": "2017-10-17 18:43:15", 
+    "utc_of_data_collection_start": "2017-10-17 18:43:15"
 }

@@ -1,5 +1,5 @@
 {
-    "active_user_count": 605, 
+    "active_user_count": 272, 
     "advertiser_category": "Technology", 
     "audience_target": "interesting,technology", 
     "avg_comment_num_per_submission": 3, 
@@ -40,7 +40,7 @@
         }
     ], 
     "subreddit_creation_utc": 1343214171.0, 
-    "subscribers": 12563474, 
+    "subscribers": 12565873, 
     "title": "10/10 would bookmark again", 
     "title_word_count_occurrences": {}, 
     "top_score_submissions": [
@@ -66,5 +66,6 @@
         }
     ], 
     "total_submissions": 1, 
-    "utc_of_data_collection_start": "2017-10-16 18:37:53"
+    "utc_of_data_collection_completion": "2017-10-17 18:48:13", 
+    "utc_of_data_collection_start": "2017-10-17 18:48:13"
 }

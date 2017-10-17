@@ -1,5 +1,5 @@
 {
-    "active_user_count": 3, 
+    "active_user_count": 4, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 0, 
@@ -149,5 +149,6 @@
         }
     ], 
     "total_submissions": 3, 
-    "utc_of_data_collection_start": "2017-10-16 18:38:32"
+    "utc_of_data_collection_completion": "2017-10-17 18:48:58", 
+    "utc_of_data_collection_start": "2017-10-17 18:48:57"
 }

@@ -1,5 +1,5 @@
 {
-    "active_user_count": 4, 
+    "active_user_count": 1, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 1, 
@@ -52,7 +52,7 @@
             "num_comments": 1, 
             "num_crossposts": 0, 
             "permalink": "/r/datamining/comments/70nrmz/interview_request/", 
-            "score": 4, 
+            "score": 2, 
             "selftext": "Does anyone here have expert knowledge on data mining for the purpose of social media marketing and is willing to answer a few questions? I'm a senior in high school and I need an interview for an assignment asap. I've tried looking online but haven't had any luck, so I figured I would try here? Please message me, thanks!", 
             "subreddit": "datamining", 
             "title": "Interview request", 
@@ -100,30 +100,10 @@
         }
     ], 
     "subreddit_creation_utc": 1247391141.0, 
-    "subscribers": 6978, 
+    "subscribers": 6985, 
     "title": "Data mining: the process finding useful information from large data sets", 
     "title_word_count_occurrences": {}, 
     "top_score_submissions": [
-        {
-            "author": "samj0ey", 
-            "created_utc": 1505658438.0, 
-            "domain": "self.datamining", 
-            "id": "70nrmz", 
-            "is_reddit_media_domain": false, 
-            "is_self": true, 
-            "is_video": false, 
-            "link_flair_css_class": null, 
-            "link_flair_text": null, 
-            "media": null, 
-            "num_comments": 1, 
-            "num_crossposts": 0, 
-            "permalink": "/r/datamining/comments/70nrmz/interview_request/", 
-            "score": 4, 
-            "selftext": "Does anyone here have expert knowledge on data mining for the purpose of social media marketing and is willing to answer a few questions? I'm a senior in high school and I need an interview for an assignment asap. I've tried looking online but haven't had any luck, so I figured I would try here? Please message me, thanks!", 
-            "subreddit": "datamining", 
-            "title": "Interview request", 
-            "url": "https://www.reddit.com/r/datamining/comments/70nrmz/interview_request/"
-        }, 
         {
             "author": "matija2209", 
             "created_utc": 1505993166.0, 
@@ -143,6 +123,26 @@
             "subreddit": "datamining", 
             "title": "Finding best email from domain", 
             "url": "https://www.reddit.com/r/datamining/comments/71igxh/finding_best_email_from_domain/"
+        }, 
+        {
+            "author": "samj0ey", 
+            "created_utc": 1505658438.0, 
+            "domain": "self.datamining", 
+            "id": "70nrmz", 
+            "is_reddit_media_domain": false, 
+            "is_self": true, 
+            "is_video": false, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "media": null, 
+            "num_comments": 1, 
+            "num_crossposts": 0, 
+            "permalink": "/r/datamining/comments/70nrmz/interview_request/", 
+            "score": 2, 
+            "selftext": "Does anyone here have expert knowledge on data mining for the purpose of social media marketing and is willing to answer a few questions? I'm a senior in high school and I need an interview for an assignment asap. I've tried looking online but haven't had any luck, so I figured I would try here? Please message me, thanks!", 
+            "subreddit": "datamining", 
+            "title": "Interview request", 
+            "url": "https://www.reddit.com/r/datamining/comments/70nrmz/interview_request/"
         }, 
         {
             "author": "scrougemcchicken", 
@@ -186,6 +186,6 @@
         }
     ], 
     "total_submissions": 4, 
-    "utc_of_data_collection_completion": "2017-10-16 18:50:19", 
-    "utc_of_data_collection_start": "2017-10-16 18:50:18"
+    "utc_of_data_collection_completion": "2017-10-17 18:44:28", 
+    "utc_of_data_collection_start": "2017-10-17 18:44:28"
 }

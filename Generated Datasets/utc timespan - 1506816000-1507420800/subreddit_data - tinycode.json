@@ -1,5 +1,5 @@
 {
-    "active_user_count": 13, 
+    "active_user_count": 11, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 0, 
@@ -17,10 +17,11 @@
     "public_description": "This subreddit is about minimalistic, often but not always simple implementations of just about everything. tiny code / minimalistic programming / yagni / kiss / dry\n\n**TL;DR: Low line count, high quality**", 
     "submissions": [], 
     "subreddit_creation_utc": 1309483090.0, 
-    "subscribers": 18106, 
+    "subscribers": 18107, 
     "title": "low line count, high quality", 
     "title_word_count_occurrences": {}, 
     "top_score_submissions": [], 
     "total_submissions": 0, 
-    "utc_of_data_collection_start": "2017-10-16 18:38:50"
+    "utc_of_data_collection_completion": "2017-10-17 18:49:14", 
+    "utc_of_data_collection_start": "2017-10-17 18:49:14"
 }

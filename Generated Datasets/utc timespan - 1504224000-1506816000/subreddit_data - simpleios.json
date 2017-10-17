@@ -1,5 +1,5 @@
 {
-    "active_user_count": 5, 
+    "active_user_count": 4, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 2, 
@@ -36,7 +36,7 @@
             "num_comments": 0, 
             "num_crossposts": 0, 
             "permalink": "/r/simpleios/comments/737pxm/tutorial_swift_common_mistakes_no_one_bothers/", 
-            "score": 7, 
+            "score": 8, 
             "selftext": "", 
             "subreddit": "simpleios", 
             "title": "[Tutorial] Swift: Common mistakes no one bothers about \u2014 First class functions and retain loops", 
@@ -116,7 +116,7 @@
             "num_comments": 0, 
             "num_crossposts": 0, 
             "permalink": "/r/simpleios/comments/71zg9y/ios_10_swift_3_course_100_off_for_limited_time/", 
-            "score": 2, 
+            "score": 1, 
             "selftext": "", 
             "subreddit": "simpleios", 
             "title": "iOS 10 & Swift 3 Course - 100% OFF (for Limited Time) - Your online courses", 
@@ -284,13 +284,33 @@
         }
     ], 
     "subreddit_creation_utc": 1316816579.0, 
-    "subscribers": 5616, 
+    "subscribers": 5620, 
     "title": "A place for people to learn iOS - from the beginning", 
     "title_word_count_occurrences": {
         "ios": 6, 
         "swift": 5
     }, 
     "top_score_submissions": [
+        {
+            "author": "trimmurrti", 
+            "created_utc": 1506691018.0, 
+            "domain": "medium.com", 
+            "id": "737pxm", 
+            "is_reddit_media_domain": false, 
+            "is_self": false, 
+            "is_video": false, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "media": null, 
+            "num_comments": 0, 
+            "num_crossposts": 0, 
+            "permalink": "/r/simpleios/comments/737pxm/tutorial_swift_common_mistakes_no_one_bothers/", 
+            "score": 8, 
+            "selftext": "", 
+            "subreddit": "simpleios", 
+            "title": "[Tutorial] Swift: Common mistakes no one bothers about \u2014 First class functions and retain loops", 
+            "url": "https://medium.com/@oleksakorin/swift-common-mistakes-no-one-bothers-about-first-class-functions-and-retain-loops-417342a248d1"
+        }, 
         {
             "author": "LisaDziuba", 
             "created_utc": 1504949301.0, 
@@ -310,26 +330,6 @@
             "subreddit": "simpleios", 
             "title": "Beginner tutorial on how to submit an iOS app to the App Store", 
             "url": "https://code.tutsplus.com/tutorials/how-to-submit-an-ios-app-to-the-app-store--mobile-16812"
-        }, 
-        {
-            "author": "trimmurrti", 
-            "created_utc": 1506691018.0, 
-            "domain": "medium.com", 
-            "id": "737pxm", 
-            "is_reddit_media_domain": false, 
-            "is_self": false, 
-            "is_video": false, 
-            "link_flair_css_class": null, 
-            "link_flair_text": null, 
-            "media": null, 
-            "num_comments": 0, 
-            "num_crossposts": 0, 
-            "permalink": "/r/simpleios/comments/737pxm/tutorial_swift_common_mistakes_no_one_bothers/", 
-            "score": 7, 
-            "selftext": "", 
-            "subreddit": "simpleios", 
-            "title": "[Tutorial] Swift: Common mistakes no one bothers about \u2014 First class functions and retain loops", 
-            "url": "https://medium.com/@oleksakorin/swift-common-mistakes-no-one-bothers-about-first-class-functions-and-retain-loops-417342a248d1"
         }, 
         {
             "author": "LisaDziuba", 
@@ -393,6 +393,6 @@
         }
     ], 
     "total_submissions": 13, 
-    "utc_of_data_collection_completion": "2017-10-16 18:52:34", 
-    "utc_of_data_collection_start": "2017-10-16 18:52:33"
+    "utc_of_data_collection_completion": "2017-10-17 18:46:52", 
+    "utc_of_data_collection_start": "2017-10-17 18:46:52"
 }

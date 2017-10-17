@@ -1,9 +1,9 @@
 {
-    "active_user_count": 10, 
+    "active_user_count": 13, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 1, 
-    "avg_submission_score": 4, 
+    "avg_submission_score": 3, 
     "collection_range_end_unix_timestamp": 1507420800, 
     "collection_range_end_utc": "2017-10-08 00:00:00", 
     "collection_range_start_unix_timestamp": 1506816000, 
@@ -36,7 +36,7 @@
             "num_comments": 1, 
             "num_crossposts": 0, 
             "permalink": "/r/visualization/comments/74mzop/the_little_of_visualisation_design_part_44/", 
-            "score": 12, 
+            "score": 10, 
             "selftext": "", 
             "subreddit": "visualization", 
             "title": "The little of visualisation design: Part 44", 
@@ -96,7 +96,7 @@
             "num_comments": 4, 
             "num_crossposts": 0, 
             "permalink": "/r/visualization/comments/745bi7/how_we_made_cassinis_grand_tour/", 
-            "score": 3, 
+            "score": 2, 
             "selftext": "", 
             "subreddit": "visualization", 
             "title": "How We Made Cassini's Grand Tour", 
@@ -124,7 +124,7 @@
         }
     ], 
     "subreddit_creation_utc": 1206436279.0, 
-    "subscribers": 19464, 
+    "subscribers": 19479, 
     "title": "Visualization", 
     "title_word_count_occurrences": {}, 
     "top_score_submissions": [
@@ -142,7 +142,7 @@
             "num_comments": 1, 
             "num_crossposts": 0, 
             "permalink": "/r/visualization/comments/74mzop/the_little_of_visualisation_design_part_44/", 
-            "score": 12, 
+            "score": 10, 
             "selftext": "", 
             "subreddit": "visualization", 
             "title": "The little of visualisation design: Part 44", 
@@ -182,7 +182,7 @@
             "num_comments": 4, 
             "num_crossposts": 0, 
             "permalink": "/r/visualization/comments/745bi7/how_we_made_cassinis_grand_tour/", 
-            "score": 3, 
+            "score": 2, 
             "selftext": "", 
             "subreddit": "visualization", 
             "title": "How We Made Cassini's Grand Tour", 
@@ -230,5 +230,6 @@
         }
     ], 
     "total_submissions": 5, 
-    "utc_of_data_collection_start": "2017-10-16 18:38:53"
+    "utc_of_data_collection_completion": "2017-10-17 18:49:18", 
+    "utc_of_data_collection_start": "2017-10-17 18:49:17"
 }

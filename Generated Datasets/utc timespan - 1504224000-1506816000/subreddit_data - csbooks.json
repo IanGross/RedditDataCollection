@@ -1,5 +1,5 @@
 {
-    "active_user_count": 9, 
+    "active_user_count": 5, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 0, 
@@ -17,11 +17,11 @@
     "public_description": "", 
     "submissions": [], 
     "subreddit_creation_utc": 1252306663.0, 
-    "subscribers": 11383, 
+    "subscribers": 11389, 
     "title": "Free (and legal) computer science textbooks", 
     "title_word_count_occurrences": {}, 
     "top_score_submissions": [], 
     "total_submissions": 0, 
-    "utc_of_data_collection_completion": "2017-10-16 18:50:01", 
-    "utc_of_data_collection_start": "2017-10-16 18:50:01"
+    "utc_of_data_collection_completion": "2017-10-17 18:44:08", 
+    "utc_of_data_collection_start": "2017-10-17 18:44:08"
 }

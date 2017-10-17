@@ -1,9 +1,9 @@
 {
-    "active_user_count": 8, 
+    "active_user_count": 10, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 2, 
-    "avg_submission_score": 4, 
+    "avg_submission_score": 5, 
     "collection_range_end_unix_timestamp": 1507420800, 
     "collection_range_end_utc": "2017-10-08 00:00:00", 
     "collection_range_start_unix_timestamp": 1506816000, 
@@ -32,7 +32,7 @@
             "num_comments": 4, 
             "num_crossposts": 0, 
             "permalink": "/r/CS_Questions/comments/74nm52/big_4_interview_question/", 
-            "score": 5, 
+            "score": 6, 
             "selftext": "I had an interview yesterday with one of the big 4, this was the question (I can't remember it exactly).\n\nA chef will only cook the following foods:\nItalian\nSpanish\n\nAND only if it's NOT a Friday.\n\nSee the following diagram:\n\n    NOT Friday\n       |\n     AND ---- OR\n        |      |\n      Spanish   Italian\n\n\nHow would you encode these, and similar rules pro grammatically?", 
             "subreddit": "CS_Questions", 
             "title": "Big 4 Interview Question", 
@@ -52,7 +52,7 @@
             "num_comments": 1, 
             "num_crossposts": 0, 
             "permalink": "/r/CS_Questions/comments/74bzgc/system_design_questions/", 
-            "score": 4, 
+            "score": 5, 
             "selftext": "Have you come across system design questions? On leetcode I only see `Tiny url`question. I was wondering if anyone here has come across other system design questions in interviews.\n", 
             "subreddit": "CS_Questions", 
             "title": "System design questions?", 
@@ -60,7 +60,7 @@
         }
     ], 
     "subreddit_creation_utc": 1321177162.0, 
-    "subscribers": 4128, 
+    "subscribers": 4134, 
     "title": "Computer Science Interview/Challenge Questions", 
     "title_word_count_occurrences": {}, 
     "top_score_submissions": [
@@ -78,7 +78,7 @@
             "num_comments": 4, 
             "num_crossposts": 0, 
             "permalink": "/r/CS_Questions/comments/74nm52/big_4_interview_question/", 
-            "score": 5, 
+            "score": 6, 
             "selftext": "I had an interview yesterday with one of the big 4, this was the question (I can't remember it exactly).\n\nA chef will only cook the following foods:\nItalian\nSpanish\n\nAND only if it's NOT a Friday.\n\nSee the following diagram:\n\n    NOT Friday\n       |\n     AND ---- OR\n        |      |\n      Spanish   Italian\n\n\nHow would you encode these, and similar rules pro grammatically?", 
             "subreddit": "CS_Questions", 
             "title": "Big 4 Interview Question", 
@@ -98,7 +98,7 @@
             "num_comments": 1, 
             "num_crossposts": 0, 
             "permalink": "/r/CS_Questions/comments/74bzgc/system_design_questions/", 
-            "score": 4, 
+            "score": 5, 
             "selftext": "Have you come across system design questions? On leetcode I only see `Tiny url`question. I was wondering if anyone here has come across other system design questions in interviews.\n", 
             "subreddit": "CS_Questions", 
             "title": "System design questions?", 
@@ -106,5 +106,6 @@
         }
     ], 
     "total_submissions": 2, 
-    "utc_of_data_collection_start": "2017-10-16 18:36:52"
+    "utc_of_data_collection_completion": "2017-10-17 18:47:06", 
+    "utc_of_data_collection_start": "2017-10-17 18:47:06"
 }

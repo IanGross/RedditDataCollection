@@ -1,9 +1,9 @@
 {
-    "active_user_count": 14, 
+    "active_user_count": 13, 
     "advertiser_category": null, 
     "audience_target": "programming", 
     "avg_comment_num_per_submission": 3, 
-    "avg_submission_score": 13, 
+    "avg_submission_score": 14, 
     "collection_range_end_unix_timestamp": 1507420800, 
     "collection_range_end_utc": "2017-10-08 00:00:00", 
     "collection_range_start_unix_timestamp": 1506816000, 
@@ -33,7 +33,7 @@
             "num_comments": 3, 
             "num_crossposts": 0, 
             "permalink": "/r/Julia/comments/73wgvm/intro_to_julia_sydneys_2nd_ever_julia_meetup/", 
-            "score": 14, 
+            "score": 16, 
             "selftext": "", 
             "subreddit": "Julia", 
             "title": "Intro to Julia - Sydney's 2nd ever Julia meetup", 
@@ -53,7 +53,7 @@
             "num_comments": 4, 
             "num_crossposts": 0, 
             "permalink": "/r/Julia/comments/73v9ak/one_ergonomic_advantage_of_singledispatch_over/", 
-            "score": 13, 
+            "score": 12, 
             "selftext": "Generally, multiple dispatch is overall superior to single dispatch, but if I'm writing Python in an editor or console with some form of completion, I can easily discover what methods are associated with an object by simply typing \".\" and the tab completion dialogue pops up. If I wanted to accomplish something similar in Julia I would have to find the type of the object (via *typeof*) and then find what methods dispatch to it (via *methodswith*), and then evaluate it. E.G:\n\npython:\n\n    foo.<tab>bar\n\njulia:\n\n    methodswith(typeof(foo))<enter>\n    foo.bar\n\nMost of this could easily be alleviated with editor/IDE support in some manner or the other, but that leaves us with the question of how?\n\nAs for now, I've got the following in my .juliarc, but I'd like broader solutions across the Julia ecosystem. Any ideas?\n\n    mwto(x) = methodswith(typeof(x))", 
             "subreddit": "Julia", 
             "title": "One (ergonomic) advantage of single-dispatch over multiple dispatch", 
@@ -61,7 +61,7 @@
         }
     ], 
     "subreddit_creation_utc": 1229041966.0, 
-    "subscribers": 3557, 
+    "subscribers": 3556, 
     "title": "The Julia Language Subreddit", 
     "title_word_count_occurrences": {
         "julia": 1
@@ -81,7 +81,7 @@
             "num_comments": 3, 
             "num_crossposts": 0, 
             "permalink": "/r/Julia/comments/73wgvm/intro_to_julia_sydneys_2nd_ever_julia_meetup/", 
-            "score": 14, 
+            "score": 16, 
             "selftext": "", 
             "subreddit": "Julia", 
             "title": "Intro to Julia - Sydney's 2nd ever Julia meetup", 
@@ -101,7 +101,7 @@
             "num_comments": 4, 
             "num_crossposts": 0, 
             "permalink": "/r/Julia/comments/73v9ak/one_ergonomic_advantage_of_singledispatch_over/", 
-            "score": 13, 
+            "score": 12, 
             "selftext": "Generally, multiple dispatch is overall superior to single dispatch, but if I'm writing Python in an editor or console with some form of completion, I can easily discover what methods are associated with an object by simply typing \".\" and the tab completion dialogue pops up. If I wanted to accomplish something similar in Julia I would have to find the type of the object (via *typeof*) and then find what methods dispatch to it (via *methodswith*), and then evaluate it. E.G:\n\npython:\n\n    foo.<tab>bar\n\njulia:\n\n    methodswith(typeof(foo))<enter>\n    foo.bar\n\nMost of this could easily be alleviated with editor/IDE support in some manner or the other, but that leaves us with the question of how?\n\nAs for now, I've got the following in my .juliarc, but I'd like broader solutions across the Julia ecosystem. Any ideas?\n\n    mwto(x) = methodswith(typeof(x))", 
             "subreddit": "Julia", 
             "title": "One (ergonomic) advantage of single-dispatch over multiple dispatch", 
@@ -109,5 +109,6 @@
         }
     ], 
     "total_submissions": 2, 
-    "utc_of_data_collection_start": "2017-10-16 18:37:01"
+    "utc_of_data_collection_completion": "2017-10-17 18:47:15", 
+    "utc_of_data_collection_start": "2017-10-17 18:47:15"
 }

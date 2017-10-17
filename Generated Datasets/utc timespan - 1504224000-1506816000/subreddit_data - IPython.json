@@ -1,5 +1,5 @@
 {
-    "active_user_count": 12, 
+    "active_user_count": 19, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 1, 
@@ -156,7 +156,7 @@
             "num_comments": 0, 
             "num_crossposts": 0, 
             "permalink": "/r/IPython/comments/70vekf/new_version_of_our_jupyter_notebook_client_for/", 
-            "score": 16, 
+            "score": 15, 
             "selftext": "", 
             "subreddit": "IPython", 
             "title": "New version of our Jupyter Notebook client for iPad is available for beta testing now \u2014 bringing code completion, fixes and more.", 
@@ -176,7 +176,7 @@
             "num_comments": 1, 
             "num_crossposts": 0, 
             "permalink": "/r/IPython/comments/70gs36/jupyter_notebook_510_released/", 
-            "score": 6, 
+            "score": 3, 
             "selftext": "", 
             "subreddit": "IPython", 
             "title": "Jupyter Notebook 5.1.0 Released", 
@@ -276,7 +276,7 @@
             "num_comments": 6, 
             "num_crossposts": 0, 
             "permalink": "/r/IPython/comments/6y0vsd/announcing_kernels_a_jupyter_notebook_client_for/", 
-            "score": 4, 
+            "score": 5, 
             "selftext": "", 
             "subreddit": "IPython", 
             "title": "Announcing Kernels, a Jupyter Notebook client for iPad (x-post from /r/MachineLearning)", 
@@ -304,7 +304,7 @@
         }
     ], 
     "subreddit_creation_utc": 1367292961.0, 
-    "subscribers": 4272, 
+    "subscribers": 4275, 
     "title": "IPython: A place to ask questions and discuss all things IPython and Jupyter related.", 
     "title_word_count_occurrences": {
         "python": 2
@@ -324,7 +324,7 @@
             "num_comments": 0, 
             "num_crossposts": 0, 
             "permalink": "/r/IPython/comments/70vekf/new_version_of_our_jupyter_notebook_client_for/", 
-            "score": 16, 
+            "score": 15, 
             "selftext": "", 
             "subreddit": "IPython", 
             "title": "New version of our Jupyter Notebook client for iPad is available for beta testing now \u2014 bringing code completion, fixes and more.", 
@@ -371,24 +371,24 @@
             "url": "https://github.com/ipython/ipython/wiki/Extensions-Index"
         }, 
         {
-            "author": "NomadNella", 
-            "created_utc": 1505567215.0, 
-            "domain": "groups.google.com", 
-            "id": "70gs36", 
+            "author": "navoshta", 
+            "created_utc": 1504537978.0, 
+            "domain": "reddit.com", 
+            "id": "6y0vsd", 
             "is_reddit_media_domain": false, 
             "is_self": false, 
             "is_video": false, 
             "link_flair_css_class": null, 
             "link_flair_text": null, 
             "media": null, 
-            "num_comments": 1, 
+            "num_comments": 6, 
             "num_crossposts": 0, 
-            "permalink": "/r/IPython/comments/70gs36/jupyter_notebook_510_released/", 
-            "score": 6, 
+            "permalink": "/r/IPython/comments/6y0vsd/announcing_kernels_a_jupyter_notebook_client_for/", 
+            "score": 5, 
             "selftext": "", 
             "subreddit": "IPython", 
-            "title": "Jupyter Notebook 5.1.0 Released", 
-            "url": "https://groups.google.com/forum/#!topic/jupyter/jZu-4fhF1ss"
+            "title": "Announcing Kernels, a Jupyter Notebook client for iPad (x-post from /r/MachineLearning)", 
+            "url": "https://www.reddit.com/r/MachineLearning/comments/6y0ur3/announcing_kernels_a_jupyter_notebook_client_for/"
         }, 
         {
             "author": "jcloud_dev", 
@@ -412,6 +412,6 @@
         }
     ], 
     "total_submissions": 14, 
-    "utc_of_data_collection_completion": "2017-10-16 18:49:19", 
-    "utc_of_data_collection_start": "2017-10-16 18:49:19"
+    "utc_of_data_collection_completion": "2017-10-17 18:43:21", 
+    "utc_of_data_collection_start": "2017-10-17 18:43:21"
 }

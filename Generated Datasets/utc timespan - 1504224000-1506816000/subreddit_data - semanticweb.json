@@ -1,9 +1,9 @@
 {
-    "active_user_count": 5, 
+    "active_user_count": 6, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 1, 
-    "avg_submission_score": 1, 
+    "avg_submission_score": 2, 
     "collection_range_end_unix_timestamp": 1506816000, 
     "collection_range_end_utc": "2017-10-01 00:00:00", 
     "collection_range_start_unix_timestamp": 1504224000, 
@@ -236,7 +236,7 @@
             "num_comments": 1, 
             "num_crossposts": 0, 
             "permalink": "/r/semanticweb/comments/6xb405/wrio_internet_os/", 
-            "score": 4, 
+            "score": 5, 
             "selftext": "", 
             "subreddit": "semanticweb", 
             "title": "WRIO Internet OS", 
@@ -286,7 +286,7 @@
             "num_comments": 1, 
             "num_crossposts": 0, 
             "permalink": "/r/semanticweb/comments/6xb405/wrio_internet_os/", 
-            "score": 4, 
+            "score": 5, 
             "selftext": "", 
             "subreddit": "semanticweb", 
             "title": "WRIO Internet OS", 
@@ -354,6 +354,6 @@
         }
     ], 
     "total_submissions": 11, 
-    "utc_of_data_collection_completion": "2017-10-16 18:52:33", 
-    "utc_of_data_collection_start": "2017-10-16 18:52:32"
+    "utc_of_data_collection_completion": "2017-10-17 18:46:51", 
+    "utc_of_data_collection_start": "2017-10-17 18:46:51"
 }

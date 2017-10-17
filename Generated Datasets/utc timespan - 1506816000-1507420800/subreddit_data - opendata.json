@@ -1,9 +1,9 @@
 {
-    "active_user_count": 10, 
+    "active_user_count": 7, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 2, 
-    "avg_submission_score": 2, 
+    "avg_submission_score": 3, 
     "collection_range_end_unix_timestamp": 1507420800, 
     "collection_range_end_utc": "2017-10-08 00:00:00", 
     "collection_range_start_unix_timestamp": 1506816000, 
@@ -32,7 +32,7 @@
             "num_comments": 2, 
             "num_crossposts": 0, 
             "permalink": "/r/opendata/comments/74hdfd/would_anyone_like_to_collaborate_on_a_national/", 
-            "score": 2, 
+            "score": 3, 
             "selftext": "I have spent a lot of time working with BG and tract level data for the purpose of stitching together demographic and environmental exposure data (as well as a few other things).\n\nI have seen some discussions about data on mass shootings, and I think something similar would be valid for statistical modeling/hypothesis testing. \n\nI was thinking about digging into the UCR data for violent crimes and weapon usage at as fine of geographic resolution as I can muster. However, I am only familiar with how to get UCR DATA for the last few years.\n\nI Would be happy to single incident types and/or alternative sources of information. Just need to make sure we can link everything by FIPS code in the end.\n\nIf anyone has any ideas about sources or wants to try and help put this together, let me know \n\nDave", 
             "subreddit": "opendata", 
             "title": "Would anyone like to collaborate on a national data set for gun and/or other violence? (Or advice on sources)", 
@@ -40,7 +40,7 @@
         }
     ], 
     "subreddit_creation_utc": 1263710031.0, 
-    "subscribers": 8050, 
+    "subscribers": 8055, 
     "title": "Open Data", 
     "title_word_count_occurrences": {}, 
     "top_score_submissions": [
@@ -58,7 +58,7 @@
             "num_comments": 2, 
             "num_crossposts": 0, 
             "permalink": "/r/opendata/comments/74hdfd/would_anyone_like_to_collaborate_on_a_national/", 
-            "score": 2, 
+            "score": 3, 
             "selftext": "I have spent a lot of time working with BG and tract level data for the purpose of stitching together demographic and environmental exposure data (as well as a few other things).\n\nI have seen some discussions about data on mass shootings, and I think something similar would be valid for statistical modeling/hypothesis testing. \n\nI was thinking about digging into the UCR data for violent crimes and weapon usage at as fine of geographic resolution as I can muster. However, I am only familiar with how to get UCR DATA for the last few years.\n\nI Would be happy to single incident types and/or alternative sources of information. Just need to make sure we can link everything by FIPS code in the end.\n\nIf anyone has any ideas about sources or wants to try and help put this together, let me know \n\nDave", 
             "subreddit": "opendata", 
             "title": "Would anyone like to collaborate on a national data set for gun and/or other violence? (Or advice on sources)", 
@@ -66,5 +66,6 @@
         }
     ], 
     "total_submissions": 1, 
-    "utc_of_data_collection_start": "2017-10-16 18:38:20"
+    "utc_of_data_collection_completion": "2017-10-17 18:48:47", 
+    "utc_of_data_collection_start": "2017-10-17 18:48:47"
 }

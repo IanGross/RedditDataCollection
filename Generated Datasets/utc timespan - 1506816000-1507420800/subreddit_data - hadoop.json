@@ -1,5 +1,5 @@
 {
-    "active_user_count": 9, 
+    "active_user_count": 14, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 1, 
@@ -101,7 +101,7 @@
         }
     ], 
     "subreddit_creation_utc": 1246447083.0, 
-    "subscribers": 4499, 
+    "subscribers": 4504, 
     "title": "All about the yellow elephant that powers the cloud", 
     "title_word_count_occurrences": {
         "hadoop": 1
@@ -189,5 +189,6 @@
         }
     ], 
     "total_submissions": 4, 
-    "utc_of_data_collection_start": "2017-10-16 18:37:49"
+    "utc_of_data_collection_completion": "2017-10-17 18:48:06", 
+    "utc_of_data_collection_start": "2017-10-17 18:48:06"
 }

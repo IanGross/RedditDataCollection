@@ -260,7 +260,7 @@
         "cosmosmagazine.com": 1, 
         "cppcast.com": 1, 
         "cpsdocs.dellemc.com": 1, 
-        "crate.io": 2, 
+        "crate.io": 1, 
         "crowdstrike.com": 1, 
         "cs.umd.edu": 1, 
         "cse.buffalo.edu": 1, 
@@ -814,9 +814,9 @@
         "self.algorithms": 5, 
         "self.amazonecho": 106, 
         "self.androiddev": 62, 
-        "self.apple": 946, 
+        "self.apple": 944, 
         "self.artificial": 11, 
-        "self.aws": 76, 
+        "self.aws": 75, 
         "self.bigdata": 4, 
         "self.codes": 27, 
         "self.commandline": 8, 
@@ -825,26 +825,26 @@
         "self.cpp": 17, 
         "self.crypto": 7, 
         "self.csbooks": 2, 
-        "self.cscareerquestions": 621, 
+        "self.cscareerquestions": 620, 
         "self.datamining": 2, 
         "self.datascience": 77, 
         "self.datasets": 33, 
-        "self.devops": 40, 
+        "self.devops": 39, 
         "self.django": 33, 
         "self.flask": 10, 
         "self.gadgets": 1, 
         "self.git": 12, 
         "self.golang": 32, 
-        "self.google": 126, 
+        "self.google": 125, 
         "self.hacking": 41, 
         "self.hadoop": 3, 
         "self.hardware": 13, 
         "self.haskell": 33, 
-        "self.iOSProgramming": 85, 
-        "self.ios": 241, 
+        "self.iOSProgramming": 84, 
+        "self.ios": 240, 
         "self.java": 22, 
         "self.javascript": 86, 
-        "self.learnprogramming": 658, 
+        "self.learnprogramming": 654, 
         "self.learnpython": 331, 
         "self.linux": 48, 
         "self.lisp": 6, 
@@ -859,7 +859,7 @@
         "self.software": 46, 
         "self.softwaredevelopment": 5, 
         "self.statistics": 46, 
-        "self.sysadmin": 603, 
+        "self.sysadmin": 602, 
         "self.tech": 1, 
         "self.technology": 8, 
         "self.vim": 37, 
@@ -1124,7 +1124,7 @@
             "androiddev": 117
         }, 
         {
-            "apple": 1092
+            "apple": 1090
         }, 
         {
             "CSEducation": 2
@@ -1151,7 +1151,7 @@
             "Database": 11
         }, 
         {
-            "devops": 40
+            "devops": 39
         }, 
         {
             "IPython": 5
@@ -1181,10 +1181,10 @@
             "artificial": 46
         }, 
         {
-            "aws": 99
+            "aws": 98
         }, 
         {
-            "bigdata": 40
+            "bigdata": 39
         }, 
         {
             "codeprojects": 2
@@ -1214,7 +1214,7 @@
             "csbooks": 2
         }, 
         {
-            "cscareerquestions": 621
+            "cscareerquestions": 620
         }, 
         {
             "datamining": 2
@@ -1247,7 +1247,7 @@
             "golang": 89
         }, 
         {
-            "google": 288
+            "google": 287
         }, 
         {
             "hacking": 73
@@ -1268,10 +1268,10 @@
             "internetisbeautiful": 1
         }, 
         {
-            "iOSProgramming": 105
+            "iOSProgramming": 104
         }, 
         {
-            "ios": 347
+            "ios": 346
         }, 
         {
             "java": 47
@@ -1280,7 +1280,7 @@
             "javascript": 197
         }, 
         {
-            "learnprogramming": 658
+            "learnprogramming": 654
         }, 
         {
             "learnpython": 331
@@ -1343,7 +1343,7 @@
             "systems": 0
         }, 
         {
-            "sysadmin": 603
+            "sysadmin": 602
         }, 
         {
             "tech": 27
@@ -1454,6 +1454,6 @@
         "visualization", 
         "webdev"
     ], 
-    "utc_of_data_collection_end": "2017-10-16 18:38:58", 
-    "utc_of_data_collection_start": "2017-10-16 18:36:34"
+    "utc_of_data_collection_completion": "2017-10-17 18:49:21", 
+    "utc_of_data_collection_start": "2017-10-17 18:46:45"
 }

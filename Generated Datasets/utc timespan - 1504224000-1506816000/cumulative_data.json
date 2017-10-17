@@ -780,7 +780,6 @@
         "crackberry.com": 2, 
         "craftinginterpreters.com": 2, 
         "craigkerstiens.com": 1, 
-        "crate.io": 1, 
         "creativedevweb.com": 3, 
         "cretz.github.io": 1, 
         "crn.com.au": 1, 
@@ -1479,7 +1478,7 @@
         "i.imgur.com": 189, 
         "i.magaimg.net": 1, 
         "i.prntscr.com": 1, 
-        "i.redd.it": 1004, 
+        "i.redd.it": 1003, 
         "i.redditmedia.com": 1, 
         "i.stuff.co.nz": 1, 
         "i3wm.org": 1, 
@@ -1495,7 +1494,7 @@
         "iclarified.com": 1, 
         "ideasof.andersaberg.com": 2, 
         "idiotswithphones.com": 1, 
-        "idownloadblog.com": 9, 
+        "idownloadblog.com": 8, 
         "ieeexplore.ieee.org": 2, 
         "ifixit.com": 3, 
         "iflscience.com": 1, 
@@ -2360,7 +2359,6 @@
         "pouchdb.com": 1, 
         "practicalai.io": 3, 
         "prahladyeri.com": 4, 
-        "pramp.com": 1, 
         "prathik.thiscoder.rocks": 1, 
         "predictscript.com": 1, 
         "pressreader.com": 1, 
@@ -2394,7 +2392,6 @@
         "pusher.com": 1, 
         "pushpin.org": 2, 
         "puu.sh": 1, 
-        "pxlet.com": 1, 
         "pxyup.github.io": 1, 
         "pydev.blogspot.co.uk": 1, 
         "pydev.blogspot.com": 1, 
@@ -2616,17 +2613,17 @@
         "self.HowToHack": 165, 
         "self.IPython": 8, 
         "self.Julia": 10, 
-        "self.LanguageTechnology": 32, 
+        "self.LanguageTechnology": 31, 
         "self.MachineLearning": 176, 
         "self.PHP": 53, 
         "self.ProgrammerHumor": 185, 
         "self.ProgrammingLanguages": 22, 
-        "self.Python": 490, 
+        "self.Python": 489, 
         "self.Ubuntu": 211, 
         "self.algorithms": 36, 
         "self.amazonecho": 394, 
         "self.androiddev": 275, 
-        "self.apple": 5186, 
+        "self.apple": 5184, 
         "self.artificial": 57, 
         "self.aws": 334, 
         "self.bigdata": 18, 
@@ -2637,18 +2634,18 @@
         "self.computervision": 51, 
         "self.cpp": 45, 
         "self.crypto": 40, 
-        "self.cscareerquestions": 2288, 
+        "self.cscareerquestions": 2280, 
         "self.datamining": 4, 
         "self.datascience": 217, 
         "self.datasets": 87, 
         "self.devops": 155, 
         "self.django": 148, 
-        "self.flask": 53, 
+        "self.flask": 51, 
         "self.gadgets": 5, 
         "self.git": 70, 
         "self.golang": 149, 
-        "self.google": 261, 
-        "self.hacking": 239, 
+        "self.google": 260, 
+        "self.hacking": 238, 
         "self.hadoop": 4, 
         "self.hardware": 29, 
         "self.haskell": 121, 
@@ -2656,15 +2653,15 @@
         "self.ios": 1001, 
         "self.java": 81, 
         "self.javascript": 272, 
-        "self.learnprogramming": 2549, 
+        "self.learnprogramming": 2547, 
         "self.learnpython": 1468, 
         "self.linux": 216, 
         "self.lisp": 20, 
         "self.netsec": 2, 
-        "self.networking": 558, 
+        "self.networking": 556, 
         "self.nosql": 1, 
         "self.opendata": 2, 
-        "self.opensource": 47, 
+        "self.opensource": 46, 
         "self.pystats": 6, 
         "self.robotics": 83, 
         "self.scheme": 2, 
@@ -2673,12 +2670,12 @@
         "self.software": 210, 
         "self.softwaredevelopment": 23, 
         "self.statistics": 215, 
-        "self.sysadmin": 2405, 
+        "self.sysadmin": 2404, 
         "self.tech": 3, 
         "self.technology": 39, 
         "self.vim": 116, 
         "self.visualization": 12, 
-        "self.webdev": 1033, 
+        "self.webdev": 1031, 
         "selimchehimi.com": 3, 
         "sellercentre.ebay.co.uk": 1, 
         "semaphoreci.com": 2, 
@@ -3052,7 +3049,6 @@
         "threatpost.com": 1, 
         "threema.ch": 1, 
         "thrifter.com": 1, 
-        "thriveworks.com": 1, 
         "tht.help": 2, 
         "thumbs.gfycat.com": 3, 
         "thwiv.io": 1, 
@@ -3389,7 +3385,7 @@
             "androiddev": 515
         }, 
         {
-            "apple": 6047
+            "apple": 6044
         }, 
         {
             "CSEducation": 13
@@ -3413,7 +3409,7 @@
             "Cplusplus": 26
         }, 
         {
-            "Database": 66
+            "Database": 65
         }, 
         {
             "devops": 155
@@ -3425,19 +3421,19 @@
             "Julia": 15
         }, 
         {
-            "LanguageTechnology": 44
+            "LanguageTechnology": 43
         }, 
         {
             "php": 173
         }, 
         {
-            "ProgrammerHumor": 1084
+            "ProgrammerHumor": 1083
         }, 
         {
             "ProgrammingLanguages": 45
         }, 
         {
-            "Python": 874
+            "Python": 873
         }, 
         {
             "algorithms": 47
@@ -3479,7 +3475,7 @@
             "csbooks": 0
         }, 
         {
-            "cscareerquestions": 2288
+            "cscareerquestions": 2280
         }, 
         {
             "datamining": 4
@@ -3494,7 +3490,7 @@
             "django": 189
         }, 
         {
-            "flask": 57
+            "flask": 55
         }, 
         {
             "functional": 0
@@ -3512,10 +3508,10 @@
             "golang": 360
         }, 
         {
-            "google": 627
+            "google": 626
         }, 
         {
-            "hacking": 427
+            "hacking": 426
         }, 
         {
             "hadoop": 16
@@ -3545,7 +3541,7 @@
             "javascript": 815
         }, 
         {
-            "learnprogramming": 2549
+            "learnprogramming": 2547
         }, 
         {
             "learnpython": 1468
@@ -3563,7 +3559,7 @@
             "netsec": 152
         }, 
         {
-            "networking": 558
+            "networking": 556
         }, 
         {
             "nosql": 5
@@ -3572,10 +3568,10 @@
             "opendata": 11
         }, 
         {
-            "opensource": 239
+            "opensource": 238
         }, 
         {
-            "programming": 1480
+            "programming": 1478
         }, 
         {
             "pystats": 9
@@ -3608,13 +3604,13 @@
             "systems": 0
         }, 
         {
-            "sysadmin": 2405
+            "sysadmin": 2404
         }, 
         {
             "tech": 110
         }, 
         {
-            "technology": 1821
+            "technology": 1820
         }, 
         {
             "tinycode": 7
@@ -3629,7 +3625,7 @@
             "visualization": 44
         }, 
         {
-            "webdev": 1597
+            "webdev": 1595
         }
     ], 
     "subreddit_list": [
@@ -3719,6 +3715,6 @@
         "visualization", 
         "webdev"
     ], 
-    "utc_of_data_collection_completion": "2017-10-16 18:53:33", 
-    "utc_of_data_collection_start": "2017-10-16 18:48:04"
+    "utc_of_data_collection_completion": "2017-10-17 18:48:03", 
+    "utc_of_data_collection_start": "2017-10-17 18:41:51"
 }

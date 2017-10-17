@@ -1,9 +1,9 @@
 {
-    "active_user_count": 22, 
+    "active_user_count": 26, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 5, 
-    "avg_submission_score": 9, 
+    "avg_submission_score": 10, 
     "collection_range_end_unix_timestamp": 1507420800, 
     "collection_range_end_utc": "2017-10-08 00:00:00", 
     "collection_range_start_unix_timestamp": 1506816000, 
@@ -133,7 +133,7 @@
             "num_comments": 2, 
             "num_crossposts": 0, 
             "permalink": "/r/computervision/comments/74qbge/official_computer_vision_slack_group_join_today/", 
-            "score": 12, 
+            "score": 13, 
             "selftext": "Hello r/computervision, a few fellow redditors decided to open a new slack group, computervisionclub.slack.com, for all computer vision students, researchers, professionals, and enthusiasts. Regardless if you are just beginning to learn or already have years of experience we invite you to join this new community to discuss and share new ideas in this ever-growing field.             \n\nInvite link: https://join.slack.com/t/computervisionclub/shared_invite/enQtMjUxMjY4ODQyMDgwLTVlMjVmMTZhYjA4NzEwMjMxNjQwMzAyOGQxMTUxODRlMjI2NmRmY2IwZmQyNDAwYzdiYmM1MjNiYzc3YTZlZGU\n\nEdit: Thanks to the mods for adding the link to the sidebar!", 
             "subreddit": "computervision", 
             "title": "Official Computer Vision Slack Group! Join today", 
@@ -153,7 +153,7 @@
             "num_comments": 1, 
             "num_crossposts": 0, 
             "permalink": "/r/computervision/comments/74pe6y/can_i_use_my_stereo_camera_to_scan_3d_objects/", 
-            "score": 3, 
+            "score": 4, 
             "selftext": "I have a USB device that has 2 optical capture cameras built into it, they are fixed at human eye distance apart.\n\nAre there any apps available you guys can recommend that will take advantage of this, or is basic photogrammetry my best option anyway?", 
             "subreddit": "computervision", 
             "title": "Can I use my stereo camera to scan 3D objects?", 
@@ -173,7 +173,7 @@
             "num_comments": 1, 
             "num_crossposts": 0, 
             "permalink": "/r/computervision/comments/74mmze/how_to_write_a_good_technical_paper_in_field_of/", 
-            "score": 8, 
+            "score": 9, 
             "selftext": "Hi fellow redditors. What according to you is a good technical paper? \nCan you give advice on how one should approach to write a good technical paper? \n\n", 
             "subreddit": "computervision", 
             "title": "How to write a good technical paper in field of computer vision and image processing?", 
@@ -273,7 +273,7 @@
             "num_comments": 0, 
             "num_crossposts": 0, 
             "permalink": "/r/computervision/comments/74acis/qupath_open_source_software_for_digital_pathology/", 
-            "score": 6, 
+            "score": 7, 
             "selftext": "", 
             "subreddit": "computervision", 
             "title": "QuPath - Open source software for digital pathology", 
@@ -410,7 +410,7 @@
             "num_comments": 8, 
             "num_crossposts": 0, 
             "permalink": "/r/computervision/comments/73uf9t/photorealistic_rendering_with_python/", 
-            "score": 2, 
+            "score": 3, 
             "selftext": "I want to render a 3d mesh (face) into an existing video and I want a high quality result (ray tracing?). What is the best way to accomplish that? Maybe it's my misunderstanding but game engines put the emphasis is on real time (which I don't care about). It is also preferable if a python wrapper exists. Thanks! ", 
             "subreddit": "computervision", 
             "title": "Photorealistic rendering (with Python?)", 
@@ -498,7 +498,7 @@
         }
     ], 
     "subreddit_creation_utc": 1263519596.0, 
-    "subscribers": 12323, 
+    "subscribers": 12343, 
     "title": "computer vision: doing stuff with pixels", 
     "title_word_count_occurrences": {
         "c++": 1, 
@@ -619,7 +619,7 @@
             "num_comments": 2, 
             "num_crossposts": 0, 
             "permalink": "/r/computervision/comments/74qbge/official_computer_vision_slack_group_join_today/", 
-            "score": 12, 
+            "score": 13, 
             "selftext": "Hello r/computervision, a few fellow redditors decided to open a new slack group, computervisionclub.slack.com, for all computer vision students, researchers, professionals, and enthusiasts. Regardless if you are just beginning to learn or already have years of experience we invite you to join this new community to discuss and share new ideas in this ever-growing field.             \n\nInvite link: https://join.slack.com/t/computervisionclub/shared_invite/enQtMjUxMjY4ODQyMDgwLTVlMjVmMTZhYjA4NzEwMjMxNjQwMzAyOGQxMTUxODRlMjI2NmRmY2IwZmQyNDAwYzdiYmM1MjNiYzc3YTZlZGU\n\nEdit: Thanks to the mods for adding the link to the sidebar!", 
             "subreddit": "computervision", 
             "title": "Official Computer Vision Slack Group! Join today", 
@@ -627,5 +627,6 @@
         }
     ], 
     "total_submissions": 22, 
-    "utc_of_data_collection_start": "2017-10-16 18:37:20"
+    "utc_of_data_collection_completion": "2017-10-17 18:47:36", 
+    "utc_of_data_collection_start": "2017-10-17 18:47:35"
 }

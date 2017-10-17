@@ -3,7 +3,7 @@
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 1, 
-    "avg_submission_score": 2, 
+    "avg_submission_score": 3, 
     "collection_range_end_unix_timestamp": 1506816000, 
     "collection_range_end_utc": "2017-10-01 00:00:00", 
     "collection_range_start_unix_timestamp": 1504224000, 
@@ -35,7 +35,7 @@
             "num_comments": 2, 
             "num_crossposts": 0, 
             "permalink": "/r/nosql/comments/73583a/what_size_of_data_should_we_move_to_nosql/", 
-            "score": 4, 
+            "score": 5, 
             "selftext": "Just curious about this. I know that there can be a lot of reason to move to NoSQL from RDBMS rather than just volume", 
             "subreddit": "nosql", 
             "title": "What size of data should we move to NoSQL?", 
@@ -75,7 +75,7 @@
             "num_comments": 0, 
             "num_crossposts": 0, 
             "permalink": "/r/nosql/comments/709z6k/fauna_raises_25m_looks_to_scale_up_product/", 
-            "score": 2, 
+            "score": 3, 
             "selftext": "", 
             "subreddit": "nosql", 
             "title": "Fauna raises $25M, looks to scale up product development", 
@@ -123,7 +123,7 @@
         }
     ], 
     "subreddit_creation_utc": 1251561380.0, 
-    "subscribers": 2723, 
+    "subscribers": 2724, 
     "title": "nosql: alternative database systems", 
     "title_word_count_occurrences": {
         "nosql": 1, 
@@ -144,7 +144,7 @@
             "num_comments": 2, 
             "num_crossposts": 0, 
             "permalink": "/r/nosql/comments/73583a/what_size_of_data_should_we_move_to_nosql/", 
-            "score": 4, 
+            "score": 5, 
             "selftext": "Just curious about this. I know that there can be a lot of reason to move to NoSQL from RDBMS rather than just volume", 
             "subreddit": "nosql", 
             "title": "What size of data should we move to NoSQL?", 
@@ -184,7 +184,7 @@
             "num_comments": 0, 
             "num_crossposts": 0, 
             "permalink": "/r/nosql/comments/709z6k/fauna_raises_25m_looks_to_scale_up_product/", 
-            "score": 2, 
+            "score": 3, 
             "selftext": "", 
             "subreddit": "nosql", 
             "title": "Fauna raises $25M, looks to scale up product development", 
@@ -232,6 +232,6 @@
         }
     ], 
     "total_submissions": 5, 
-    "utc_of_data_collection_completion": "2017-10-16 18:52:08", 
-    "utc_of_data_collection_start": "2017-10-16 18:52:08"
+    "utc_of_data_collection_completion": "2017-10-17 18:46:30", 
+    "utc_of_data_collection_start": "2017-10-17 18:46:30"
 }

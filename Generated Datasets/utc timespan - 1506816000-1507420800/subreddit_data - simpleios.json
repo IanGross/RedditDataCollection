@@ -1,5 +1,5 @@
 {
-    "active_user_count": 6, 
+    "active_user_count": 5, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 0, 
@@ -61,7 +61,7 @@
         }
     ], 
     "subreddit_creation_utc": 1316816579.0, 
-    "subscribers": 5616, 
+    "subscribers": 5620, 
     "title": "A place for people to learn iOS - from the beginning", 
     "title_word_count_occurrences": {
         "ios": 1, 
@@ -110,5 +110,6 @@
         }
     ], 
     "total_submissions": 2, 
-    "utc_of_data_collection_start": "2017-10-16 18:38:34"
+    "utc_of_data_collection_completion": "2017-10-17 18:48:59", 
+    "utc_of_data_collection_start": "2017-10-17 18:48:58"
 }

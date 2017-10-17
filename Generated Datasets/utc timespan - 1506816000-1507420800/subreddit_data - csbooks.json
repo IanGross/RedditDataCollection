@@ -1,5 +1,5 @@
 {
-    "active_user_count": 4, 
+    "active_user_count": 5, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 2, 
@@ -32,7 +32,7 @@
             "num_comments": 2, 
             "num_crossposts": 0, 
             "permalink": "/r/csbooks/comments/7465w4/discrete_math_book_rosen_vs_epp_vs_gary_chartrand/", 
-            "score": 3, 
+            "score": 4, 
             "selftext": "I'm finalizing my decision to buy Epp book in Amazon but lately I found another Discrete math book authored by 2 Guys (Chartrand and Zhang). Has anyone read their book? How is it?\n\nThis is for self study. ", 
             "subreddit": "csbooks", 
             "title": "Discrete Math Book: Rosen vs Epp vs Gary Chartrand Ping Zhang", 
@@ -52,7 +52,7 @@
             "num_comments": 2, 
             "num_crossposts": 0, 
             "permalink": "/r/csbooks/comments/73o78k/data_modeling_reads/", 
-            "score": 7, 
+            "score": 6, 
             "selftext": "Hey all,\n\n\nCan someone suggest to me the best books for Data Modeling/Architecture in Software Design?\n\n\nI've taken on my first job about three weeks ago, and soon we're scheduled to have day one projects coming in. I need some good resources for best methods in translating business requirements into actual data structures.", 
             "subreddit": "csbooks", 
             "title": "Data Modeling Reads", 
@@ -60,7 +60,7 @@
         }
     ], 
     "subreddit_creation_utc": 1252306663.0, 
-    "subscribers": 11383, 
+    "subscribers": 11389, 
     "title": "Free (and legal) computer science textbooks", 
     "title_word_count_occurrences": {}, 
     "top_score_submissions": [
@@ -78,7 +78,7 @@
             "num_comments": 2, 
             "num_crossposts": 0, 
             "permalink": "/r/csbooks/comments/73o78k/data_modeling_reads/", 
-            "score": 7, 
+            "score": 6, 
             "selftext": "Hey all,\n\n\nCan someone suggest to me the best books for Data Modeling/Architecture in Software Design?\n\n\nI've taken on my first job about three weeks ago, and soon we're scheduled to have day one projects coming in. I need some good resources for best methods in translating business requirements into actual data structures.", 
             "subreddit": "csbooks", 
             "title": "Data Modeling Reads", 
@@ -98,7 +98,7 @@
             "num_comments": 2, 
             "num_crossposts": 0, 
             "permalink": "/r/csbooks/comments/7465w4/discrete_math_book_rosen_vs_epp_vs_gary_chartrand/", 
-            "score": 3, 
+            "score": 4, 
             "selftext": "I'm finalizing my decision to buy Epp book in Amazon but lately I found another Discrete math book authored by 2 Guys (Chartrand and Zhang). Has anyone read their book? How is it?\n\nThis is for self study. ", 
             "subreddit": "csbooks", 
             "title": "Discrete Math Book: Rosen vs Epp vs Gary Chartrand Ping Zhang", 
@@ -106,5 +106,6 @@
         }
     ], 
     "total_submissions": 2, 
-    "utc_of_data_collection_start": "2017-10-16 18:37:24"
+    "utc_of_data_collection_completion": "2017-10-17 18:47:39", 
+    "utc_of_data_collection_start": "2017-10-17 18:47:39"
 }

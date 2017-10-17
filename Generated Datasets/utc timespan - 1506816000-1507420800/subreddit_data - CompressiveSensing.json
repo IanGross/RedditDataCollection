@@ -1,9 +1,9 @@
 {
-    "active_user_count": 5, 
+    "active_user_count": 7, 
     "advertiser_category": null, 
     "audience_target": "", 
     "avg_comment_num_per_submission": 0, 
-    "avg_submission_score": 1, 
+    "avg_submission_score": 2, 
     "collection_range_end_unix_timestamp": 1507420800, 
     "collection_range_end_utc": "2017-10-08 00:00:00", 
     "collection_range_start_unix_timestamp": 1506816000, 
@@ -92,7 +92,7 @@
             "num_comments": 0, 
             "num_crossposts": 0, 
             "permalink": "/r/CompressiveSensing/comments/73pes6/sunday_morning_insight_the_demise_of_cassini_and/", 
-            "score": 3, 
+            "score": 5, 
             "selftext": "", 
             "subreddit": "CompressiveSensing", 
             "title": "Sunday Morning Insight: The Demise of Cassini and the Rise of Artificial InteIligence", 
@@ -120,7 +120,7 @@
         }
     ], 
     "subreddit_creation_utc": 1349297276.0, 
-    "subscribers": 1918, 
+    "subscribers": 1920, 
     "title": "Compressive Sensing, Advanced Matrix Factorization and more", 
     "title_word_count_occurrences": {
         "deep learning": 1
@@ -140,7 +140,7 @@
             "num_comments": 0, 
             "num_crossposts": 0, 
             "permalink": "/r/CompressiveSensing/comments/73pes6/sunday_morning_insight_the_demise_of_cassini_and/", 
-            "score": 3, 
+            "score": 5, 
             "selftext": "", 
             "subreddit": "CompressiveSensing", 
             "title": "Sunday Morning Insight: The Demise of Cassini and the Rise of Artificial InteIligence", 
@@ -228,5 +228,6 @@
         }
     ], 
     "total_submissions": 5, 
-    "utc_of_data_collection_start": "2017-10-16 18:36:56"
+    "utc_of_data_collection_completion": "2017-10-17 18:47:10", 
+    "utc_of_data_collection_start": "2017-10-17 18:47:10"
 }
