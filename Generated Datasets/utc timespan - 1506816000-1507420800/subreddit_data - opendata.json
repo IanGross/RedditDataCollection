@@ -1,0 +1,70 @@
+{
+    "active_user_count": 10, 
+    "advertiser_category": null, 
+    "audience_target": "", 
+    "avg_comment_num_per_submission": 2, 
+    "avg_submission_score": 2, 
+    "collection_range_end_unix_timestamp": 1507420800, 
+    "collection_range_end_utc": "2017-10-08 00:00:00", 
+    "collection_range_start_unix_timestamp": 1506816000, 
+    "collection_range_start_utc": "2017-10-01 00:00:00", 
+    "description": "Playing with data from open APIs and datasets:\n\nhttp://opendata.stackexchange.com/\n\nOther related subreddits are:\nhttp://reddit.com/r/statistics\nhttp://reddit.com/r/datasets\nhttp://reddit.com/r/visualization\nhttp://reddit.com/r/machinelearning\nhttp://reddit.com/r/rstats\nhttp://reddit.com/r/econometrics\nhttp://reddit.com/r/semanticweb", 
+    "display_name": "opendata", 
+    "domain_occurrences": {
+        "self.opendata": 1
+    }, 
+    "id": "2rg3e", 
+    "num_external_website_posts": 0, 
+    "num_text_posts": 1, 
+    "public_description": "", 
+    "submissions": [
+        {
+            "author": "D-Noch", 
+            "created_utc": 1507223334.0, 
+            "domain": "self.opendata", 
+            "id": "74hdfd", 
+            "is_reddit_media_domain": false, 
+            "is_self": true, 
+            "is_video": false, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "media": null, 
+            "num_comments": 2, 
+            "num_crossposts": 0, 
+            "permalink": "/r/opendata/comments/74hdfd/would_anyone_like_to_collaborate_on_a_national/", 
+            "score": 2, 
+            "selftext": "I have spent a lot of time working with BG and tract level data for the purpose of stitching together demographic and environmental exposure data (as well as a few other things).\n\nI have seen some discussions about data on mass shootings, and I think something similar would be valid for statistical modeling/hypothesis testing. \n\nI was thinking about digging into the UCR data for violent crimes and weapon usage at as fine of geographic resolution as I can muster. However, I am only familiar with how to get UCR DATA for the last few years.\n\nI Would be happy to single incident types and/or alternative sources of information. Just need to make sure we can link everything by FIPS code in the end.\n\nIf anyone has any ideas about sources or wants to try and help put this together, let me know \n\nDave", 
+            "subreddit": "opendata", 
+            "title": "Would anyone like to collaborate on a national data set for gun and/or other violence? (Or advice on sources)", 
+            "url": "https://www.reddit.com/r/opendata/comments/74hdfd/would_anyone_like_to_collaborate_on_a_national/"
+        }
+    ], 
+    "subreddit_creation_utc": 1263710031.0, 
+    "subscribers": 8050, 
+    "title": "Open Data", 
+    "title_word_count_occurrences": {}, 
+    "top_score_submissions": [
+        {
+            "author": "D-Noch", 
+            "created_utc": 1507223334.0, 
+            "domain": "self.opendata", 
+            "id": "74hdfd", 
+            "is_reddit_media_domain": false, 
+            "is_self": true, 
+            "is_video": false, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "media": null, 
+            "num_comments": 2, 
+            "num_crossposts": 0, 
+            "permalink": "/r/opendata/comments/74hdfd/would_anyone_like_to_collaborate_on_a_national/", 
+            "score": 2, 
+            "selftext": "I have spent a lot of time working with BG and tract level data for the purpose of stitching together demographic and environmental exposure data (as well as a few other things).\n\nI have seen some discussions about data on mass shootings, and I think something similar would be valid for statistical modeling/hypothesis testing. \n\nI was thinking about digging into the UCR data for violent crimes and weapon usage at as fine of geographic resolution as I can muster. However, I am only familiar with how to get UCR DATA for the last few years.\n\nI Would be happy to single incident types and/or alternative sources of information. Just need to make sure we can link everything by FIPS code in the end.\n\nIf anyone has any ideas about sources or wants to try and help put this together, let me know \n\nDave", 
+            "subreddit": "opendata", 
+            "title": "Would anyone like to collaborate on a national data set for gun and/or other violence? (Or advice on sources)", 
+            "url": "https://www.reddit.com/r/opendata/comments/74hdfd/would_anyone_like_to_collaborate_on_a_national/"
+        }
+    ], 
+    "total_submissions": 1, 
+    "utc_of_data_collection_start": "2017-10-16 18:38:20"
+}

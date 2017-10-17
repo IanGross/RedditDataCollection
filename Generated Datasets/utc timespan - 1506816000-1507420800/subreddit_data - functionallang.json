@@ -1,0 +1,70 @@
+{
+    "active_user_count": 4, 
+    "advertiser_category": null, 
+    "audience_target": "", 
+    "avg_comment_num_per_submission": 0, 
+    "avg_submission_score": 1, 
+    "collection_range_end_unix_timestamp": 1507420800, 
+    "collection_range_end_utc": "2017-10-08 00:00:00", 
+    "collection_range_start_unix_timestamp": 1506816000, 
+    "collection_range_start_utc": "2017-10-01 00:00:00", 
+    "description": "everything about functional programming such as erlang, scala and ocaml. ", 
+    "display_name": "functionallang", 
+    "domain_occurrences": {
+        "clojurecademy.com": 1
+    }, 
+    "id": "2qiuk", 
+    "num_external_website_posts": 1, 
+    "num_text_posts": 0, 
+    "public_description": "", 
+    "submissions": [
+        {
+            "author": "ertucetin", 
+            "created_utc": 1507121530.0, 
+            "domain": "clojurecademy.com", 
+            "id": "747xkv", 
+            "is_reddit_media_domain": false, 
+            "is_self": false, 
+            "is_video": false, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "media": null, 
+            "num_comments": 0, 
+            "num_crossposts": 0, 
+            "permalink": "/r/functionallang/comments/747xkv/learn_functional_programming_with_clojurehandson/", 
+            "score": 1, 
+            "selftext": "", 
+            "subreddit": "functionallang", 
+            "title": "Learn Functional Programming With Clojure(Hands-On)", 
+            "url": "https://clojurecademy.com"
+        }
+    ], 
+    "subreddit_creation_utc": 1213537694.0, 
+    "subscribers": 787, 
+    "title": "Functional Programming", 
+    "title_word_count_occurrences": {}, 
+    "top_score_submissions": [
+        {
+            "author": "ertucetin", 
+            "created_utc": 1507121530.0, 
+            "domain": "clojurecademy.com", 
+            "id": "747xkv", 
+            "is_reddit_media_domain": false, 
+            "is_self": false, 
+            "is_video": false, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "media": null, 
+            "num_comments": 0, 
+            "num_crossposts": 0, 
+            "permalink": "/r/functionallang/comments/747xkv/learn_functional_programming_with_clojurehandson/", 
+            "score": 1, 
+            "selftext": "", 
+            "subreddit": "functionallang", 
+            "title": "Learn Functional Programming With Clojure(Hands-On)", 
+            "url": "https://clojurecademy.com"
+        }
+    ], 
+    "total_submissions": 1, 
+    "utc_of_data_collection_start": "2017-10-16 18:37:39"
+}

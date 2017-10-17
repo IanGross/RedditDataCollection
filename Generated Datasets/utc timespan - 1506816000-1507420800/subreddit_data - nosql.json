@@ -1,0 +1,73 @@
+{
+    "active_user_count": 3, 
+    "advertiser_category": null, 
+    "audience_target": "", 
+    "avg_comment_num_per_submission": 1, 
+    "avg_submission_score": 2, 
+    "collection_range_end_unix_timestamp": 1507420800, 
+    "collection_range_end_utc": "2017-10-08 00:00:00", 
+    "collection_range_start_unix_timestamp": 1506816000, 
+    "collection_range_start_utc": "2017-10-01 00:00:00", 
+    "description": "News, articles and tools covering alternative database systems.\n\nOther subreddits you may like:\n\n* /r/database  \n* /r/cassandra  \n* /r/couchdb  \n* /r/mongodb  \n* /r/redis  \n* /r/hadoop  \n* /r/bigdata  \n* /r/datamining  \n* /r/web_infrastructure  \n* /r/cloudcomputing  \n* /r/HPC  \n\n*^^Does ^^this ^^sidebar ^^need ^^an ^^addition ^^or ^^correction? ^^Tell ^^me ^^[here](http://www.reddit.com/message/compose/?to=Pi31415926&subject=sidebar+tweaks+-+nosql)*", 
+    "display_name": "nosql", 
+    "domain_occurrences": {
+        "rubikscode.net": 1
+    }, 
+    "id": "2r5tv", 
+    "num_external_website_posts": 1, 
+    "num_text_posts": 0, 
+    "public_description": "News, articles and tools covering alternative database systems.", 
+    "submissions": [
+        {
+            "author": "RubiksCodeNMZ", 
+            "created_utc": 1506950515.0, 
+            "domain": "rubikscode.net", 
+            "id": "73spvh", 
+            "is_reddit_media_domain": false, 
+            "is_self": false, 
+            "is_video": false, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "media": null, 
+            "num_comments": 1, 
+            "num_crossposts": 0, 
+            "permalink": "/r/nosql/comments/73spvh/using_mongodb_in_c/", 
+            "score": 2, 
+            "selftext": "", 
+            "subreddit": "nosql", 
+            "title": "Using MongoDB in C#", 
+            "url": "https://rubikscode.net/2017/10/02/using-mongodb-in-c/"
+        }
+    ], 
+    "subreddit_creation_utc": 1251561380.0, 
+    "subscribers": 2723, 
+    "title": "nosql: alternative database systems", 
+    "title_word_count_occurrences": {
+        "c#": 1, 
+        "mongodb": 1
+    }, 
+    "top_score_submissions": [
+        {
+            "author": "RubiksCodeNMZ", 
+            "created_utc": 1506950515.0, 
+            "domain": "rubikscode.net", 
+            "id": "73spvh", 
+            "is_reddit_media_domain": false, 
+            "is_self": false, 
+            "is_video": false, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "media": null, 
+            "num_comments": 1, 
+            "num_crossposts": 0, 
+            "permalink": "/r/nosql/comments/73spvh/using_mongodb_in_c/", 
+            "score": 2, 
+            "selftext": "", 
+            "subreddit": "nosql", 
+            "title": "Using MongoDB in C#", 
+            "url": "https://rubikscode.net/2017/10/02/using-mongodb-in-c/"
+        }
+    ], 
+    "total_submissions": 1, 
+    "utc_of_data_collection_start": "2017-10-16 18:38:20"
+}

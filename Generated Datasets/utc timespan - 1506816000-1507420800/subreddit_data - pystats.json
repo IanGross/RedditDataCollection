@@ -1,0 +1,72 @@
+{
+    "active_user_count": 3, 
+    "advertiser_category": null, 
+    "audience_target": "", 
+    "avg_comment_num_per_submission": 0, 
+    "avg_submission_score": 4, 
+    "collection_range_end_unix_timestamp": 1507420800, 
+    "collection_range_end_utc": "2017-10-08 00:00:00", 
+    "collection_range_start_unix_timestamp": 1506816000, 
+    "collection_range_start_utc": "2017-10-01 00:00:00", 
+    "description": "Welcome to /r/pystats, a place to discuss the use of python in statistical analysis and machine learning.\n\n----\n\n**Related Subreddits**\n\n* /r/python\n* /r/learnpython\n* /r/statistics\n* /r/machinelearning\n* /r/rstats\n* /r/datasets\n\n----\n\n**Where to start**\n\nIf you're brand new to python, first go and check out the [/r/learnpython wiki](http://www.reddit.com/r/learnpython/wiki/index), or the official [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide).\n\nThe best way to install python packages is [using pip](https://pypi.python.org/pypi/pip/):\n\n    pip install <package>\n\n**Recommended packages:**\n\n* [ipython](http://ipython.org/) and the [ipython-notebook](http://ipython.org/notebook.html) - Interpreter and sage-style web notebook geared towards exploratory scripting.\n* [statsmodels](http://statsmodels.sourceforge.net/) - statistical modelling \n* [pandas](http://pandas.pydata.org/) - data structures and manipulation tools\n* [matplotlib](http://matplotlib.org/) - matlab-style plotting \n* [bokeh](http://flowingdata.com/2013/11/22/bokeh-a-python-library-for-interactive-visualization/) - Protoviz-style plotting\n* [pyvttble](https://code.google.com/p/pyvttbl/) - Small pivot-table library.  Has a few common statistical methods missing from statsmodels.\n* [scikit-learn](http://scikit-learn.org/stable/) - data mining and machine learning\n\nSome of these packages have dependencies, most require [numpy](http://www.numpy.org/), and some require [scipy](http://www.scipy.org/), check the links for details.\n\nFor a good overview of what stats pacakges are available for python, check out http://stats.stackexchange.com/q/1595\n\n----", 
+    "display_name": "pystats", 
+    "domain_occurrences": {
+        "mubaris.com": 1
+    }, 
+    "id": "2yw9f", 
+    "num_external_website_posts": 1, 
+    "num_text_posts": 0, 
+    "public_description": "A place to discuss the use of python for statistical analysis.", 
+    "submissions": [
+        {
+            "author": "mubumbz", 
+            "created_utc": 1506948857.0, 
+            "domain": "mubaris.com", 
+            "id": "73skud", 
+            "is_reddit_media_domain": false, 
+            "is_self": false, 
+            "is_video": false, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "media": null, 
+            "num_comments": 0, 
+            "num_crossposts": 0, 
+            "permalink": "/r/pystats/comments/73skud/kmeans_clustering_in_python_from_scratch/", 
+            "score": 4, 
+            "selftext": "", 
+            "subreddit": "pystats", 
+            "title": "K-Means Clustering in Python from Scratch", 
+            "url": "https://mubaris.com/2017-10-01/kmeans-clustering-in-python"
+        }
+    ], 
+    "subreddit_creation_utc": 1382715738.0, 
+    "subscribers": 6162, 
+    "title": "Python Statistics", 
+    "title_word_count_occurrences": {
+        "python": 1
+    }, 
+    "top_score_submissions": [
+        {
+            "author": "mubumbz", 
+            "created_utc": 1506948857.0, 
+            "domain": "mubaris.com", 
+            "id": "73skud", 
+            "is_reddit_media_domain": false, 
+            "is_self": false, 
+            "is_video": false, 
+            "link_flair_css_class": null, 
+            "link_flair_text": null, 
+            "media": null, 
+            "num_comments": 0, 
+            "num_crossposts": 0, 
+            "permalink": "/r/pystats/comments/73skud/kmeans_clustering_in_python_from_scratch/", 
+            "score": 4, 
+            "selftext": "", 
+            "subreddit": "pystats", 
+            "title": "K-Means Clustering in Python from Scratch", 
+            "url": "https://mubaris.com/2017-10-01/kmeans-clustering-in-python"
+        }
+    ], 
+    "total_submissions": 1, 
+    "utc_of_data_collection_start": "2017-10-16 18:38:26"
+}

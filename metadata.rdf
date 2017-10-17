@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:dc= "http://purl.org/dc/elements/1.1/"
+	xmlns:xml="http://www.w3.org/XML/1998/namespace"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:prov="http://www.w3.org/ns/prov#"
+    xmlns:ex="http://example.com/ns/ex#"
+    xmlns:foaf="http://xmlns.com/foaf/spec/">
+
+	<rdf:Description rdf:about="metadata.rdf">
+		<dc:title>Reddit API Submission Collection - Metadata</dc:title>
+		<dc:description>Data to provide context on the content of these files and how they interact</dc:description>
+		<dc:publisher>exc:IanGross</dc:publisher>
+		<dc:type>Data Collection</dc:type>
+		<dc:format>rdf/xml</dc:format>
+		<dc:language>en</dc:language>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://github.com/IanGross/RedditDataCollection/">
+		<dc:title>Reddit API Submission Collection - Github Repository</dc:title>
+		<dc:description>Link to the repository holding files for this project</dc:description>
+		<dc:publisher>exc:IanGross</dc:publisher>
+		<dc:type>Website</dc:type>
+		<dc:format>text/html</dc:format>
+		<dc:language>en</dc:language>
+	</rdf:Description>
+	
+
+	<prov:document prov:id="exg:Subreddit_Submission_Data">
+		<prov:agent prov:ref="exc:IanGross"/>
+		<prov:wasGeneratedBy prov:ref="ex:run_data_collection"/>
+		<prov:wasAssociatedWith prov:ref="exg:Reddit_Data"/>
+		<prov:role>exc:OverallDataStatistics</prov:role>
+	</prov:document>
+
+	<prov:document prov:id="exg:Cumulative_Submission_Data">
+		<prov:agent prov:ref="exc:IanGross"/>
+		<prov:wasGeneratedBy prov:ref="ex:run_data_collection"/>
+		<prov:wasAssociatedWith prov:ref="exg:Reddit_Data"/>
+		<prov:used prov:ref="exg:Subreddit_Submission_Data"/>
+		<prov:role>exc:OverallDataStatistics</prov:role>
+	</prov:document>
+
+	<prov:document prov:id="exg:Python_Data_Collection_Script">
+		<prov:wasAttributedTo prov:ref="exc:IanGross"/>
+		<prov:used prov:ref="ex:run_data_collection"/>
+		<prov:role>exc:PythonFile</prov:role>
+	</prov:document>
+
+	
+
+
+	<prov:agent prov:id="exc:IanGross">
+		<prov:type>prov:Person</prov:type>
+      	<foaf:name>Ian Gross</foaf:name>
+      	<foaf:homepage>rdf:resource="http://iangross.github.io/"</foaf:homepage>
+      	<foaf:mbox>mailto:grossi2@rpi.edu</foaf:mbox>
+      	<prov:role>exc:DataScientist</prov:role>
+	</prov:agent>
+
+
+
+	<prov:activty prov:id="ex:run_data_collection">
+		<prov:generated prov:ref="exg:Subreddit_Submission_Data"/>
+		<prov:generated prov:ref="exg:Cumulative_Submission_Data"/>
+		<prov:wasAssociatedWith prov:ref="exg:Python_Data_Collection_Script"/>
+		<prov:wasAssociatedWith prov:ref="exc:IanGross"/>
+		<prov:used prov:ref="ex:RedditAPI"/>
+		<prov:used prov:ref="ex:OAuth2"/>
+		<prov:used prov:ref="ex:PRAW"/>
+		<prov:used prov:ref="ex:Python_2.7"/>
+		<prov:used prov:ref="ex:UbuntuTerminal"/>
+		<prov:plan prov:ref="exg:instructions"/>
+		<prov:role>exc:CollectSubredditData</prov:role>
+	</prov:activty>
+
+
+
+
+	<prov:entity prov:id="ex:Reddit">
+		<prov:type>prov:Organization</prov:type>
+		<dc:title>reddit: the front page of the internet</dc:title>
+		<foaf:homepage>rdf:resource="https://www.reddit.com/"</foaf:homepage>
+		<dc:format>text/html</dc:format>
+		<dc:description>A collection of various communties related to a specifc topic. Each community shares links to other websites and holds discussions between its members.</dc:description>
+	</prov:entity>
+
+	<prov:entity prov:id="exg:Reddit_Data">
+		<prov:type>prov:Plan</prov:type>
+		<prov:wasDerivedFrom prov:ref="ex:RedditAPI"/>
+		<dc:format>json</dc:format>
+		<dc:description>Data generated about the specified subreddits. This contains both the raw submission data and the statistics generated from the raw data.</dc:description>
+	</prov:entity>
+
+	<prov:entity prov:id="ex:RedditAPI">
+		<prov:type>prov:SoftwareAgent</prov:type>
+		<prov:wasDerivedFrom prov:ref="ex:Reddit"/>
+		<foaf:homepage>rdf:resource="https://www.reddit.com/wiki/api"</foaf:homepage>
+		<dc:description>Application program interface for interacting with the Reddit platform. In the case of this project, it uses the listing and submission functionality.</dc:description>
+	</prov:entity>
+
+	<prov:entity prov:id="ex:OAuth2">
+		<prov:type>prov:SoftwareAgent</prov:type>
+		<prov:wasDerivedFrom prov:ref="ex:Reddit"/>
+		<foaf:homepage>rdf:resource="https://github.com/reddit/reddit/wiki/OAuth2/"</foaf:homepage>
+		<dc:description>OAuth2 support allows you to use reddit to authenticate on non-reddit websites and applications</dc:description>
+	</prov:entity>
+
+	<prov:entity prov:id="ex:PRAW">
+		<prov:type>prov:SoftwareAgent</prov:type>
+		<prov:wasDerivedFrom prov:ref="ex:RedditAPI"/>
+		<foaf:homepage>rdf:resource="https://praw.readthedocs.io/"</foaf:homepage>
+		<dc:description>The Python Reddit API Wrapper, a python package that allows for simple access to Reddit's API</dc:description>
+	</prov:entity>
+
+	<prov:entity prov:id="ex:Python_2.7">
+		<prov:type>prov:SoftwareAgent</prov:type>
+		<foaf:homepage>rdf:resource="https://www.python.org/download/releases/2.7/"</foaf:homepage>
+		<dc:description>Programming languague utilized for this project (2.7 version)</dc:description>
+	</prov:entity>
+
+	<prov:entity prov:id="ex:UbuntuTerminal">
+		<prov:type>prov:SoftwareAgent</prov:type>
+		<dc:description>A program that takes commands from the keyboard and gives them to the operating system to perform. Ubuntu is a linux based operating system in which the terminal is based from. The Ubuntu Terminal was used for execution of python run command.</dc:description>
+		<prov:used prov:ref="ex:PRAW"/>
+		<prov:used prov:ref="ex:Python_2.7"/>
+	</prov:entity>
+
+</rdf:RDF>
